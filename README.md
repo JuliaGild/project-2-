@@ -20,11 +20,12 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 ## Question 1
 Question 2: Which departments have the highest average total compensation (base + longevity + overtime), and how does it differ by gender?
 
-<img width="612" alt="Screenshot 2025-04-21 at 7 27 41 PM" src="https://github.com/user-attachments/assets/a072d9b7-07fe-4da2-9b0d-79a887e8eb39" />
+<img width="623" alt="Screenshot 2025-04-21 at 7 39 33 PM" src="https://github.com/user-attachments/assets/9f10b8ae-3376-45b2-8659-7e979c0b7515" />
 
 
 
-📊 [Book2 (1).twbx](./Book2%20(1).twbx)
+
+
 - This shows you which departments may have pay gaps or higher overall compensation levels across genders
 - Total compensation was calculated by the following: (base + longevity + overtime)
 - We calculated the total compensation because it shows the complete amount of money an employee earns, not just their base salary. This helps give a full picture of employee earnings, which helps when comparing compensation across departments and identifying pay disparities
