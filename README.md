@@ -31,7 +31,7 @@ Question 2: Which departments have the highest average total compensation (base 
 - This analysis reveals which departments offer the highest overall compensation when combining base salary, longevity pay, and overtime pay. Breaking down the results by gender also highlights potential pay disparities between men and women within the same department. This helps identify departments with the most competitive pay structures and uncovers any possible gender-based inequalities in total compensation
 
 
-  ## Question 3
+## Question 3
 Question 3: Are males or females receiving more longevity or overtime pay in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
 
 <img width="664" alt="Screenshot 2025-04-21 at 11 50 26 AM" src="https://github.com/user-attachments/assets/5203c274-a45c-4886-b407-d1c085e8357f" />
