@@ -8,8 +8,7 @@
 Our data set: Employee Salaries - 2024
 
 
-- [Question 2: Highest Average Total Compensation](#question-2-which-departments-have-the-highest-average-total-compensation-base--longevity--overtime-and-how-does-it-differ-by-gender)
-- [Question 3: Gender Pay Differences](#question-3-are-males-or-females-receiving-more-longevity-or-overtime-pay-in-the-department-of-health-and-housing-department-of-technology-and-enterprise-business-solutions-office-of-public-relations-and-office-of-public-relations)
+#question-2-which-departments-have-the-highest-average-total-compensation-base--longevity--overtime-and-how-does-it-differ-by-gender
 
 Question 1: What is the average Overtime Pay for employees in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
 
