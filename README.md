@@ -22,7 +22,7 @@ Question 2: Which departments have the highest average total compensation (base 
 
 <img width="623" alt="Screenshot 2025-04-21 at 7 39 33 PM" src="https://github.com/user-attachments/assets/9f10b8ae-3376-45b2-8659-7e979c0b7515" />
 
-[Download Tableau Workbook: Book2 (1) (4) (1).twbx](./Book2%20(1)%20(4)%20(1).twbx)
+[Download Tableau Workbook: Book2 (3) (4).twbx](./Book2%20(3)%20(4).twbx)
 
 
 - This shows you which departments may have pay gaps or higher overall compensation levels across genders
