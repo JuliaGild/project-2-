@@ -28,6 +28,8 @@ Question 2: Which departments have the highest average total compensation (base 
 
 📊 [Book2 (1).twbx](./Book2%20(1).twbx)
 - This shows you which departments may have pay gaps or higher overall compensation levels across genders
+- Total compensation was calculated by the following: (base + longevity + overtime)
+- We calculated the total compensation because it shows the complete amount of money an employee earns, not just their base salary. This helps give a full picture of employee earnings, which helps when comparing compensation across departments and identifying pay disparities
 - This analysis reveals which departments offer the highest overall compensation when combining base salary, longevity pay, and overtime pay. Breaking down the results by gender also highlights potential pay disparities between men and women within the same department. This helps identify departments with the most competitive pay structures and uncovers any possible gender-based inequalities in total compensation
 
 
