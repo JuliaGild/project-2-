@@ -23,6 +23,9 @@ Question 1: What is the average Overtime Pay for employees in the Department of 
 ## Question 2
 Question 2: Which departments have the highest average total compensation (base + longevity + overtime), and how does it differ by gender?
 
+<img width="605" alt="Screenshot 2025-04-21 at 11 50 51 AM" src="https://github.com/user-attachments/assets/f29bd5ac-9067-4a14-b68b-a160413caea2" />
+
+
 📊 [Book2 (1).twbx](./Book2%20(1).twbx)
 - This shows you which departments may have pay gaps or higher overall compensation levels across genders
 - This analysis reveals which departments offer the highest overall compensation when combining base salary, longevity pay, and overtime pay. Breaking down the results by gender also highlights potential pay disparities between men and women within the same department. This helps identify departments with the most competitive pay structures and uncovers any possible gender-based inequalities in total compensation
