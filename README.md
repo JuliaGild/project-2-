@@ -2,6 +2,7 @@
 [John Neely](https://github.com/NeelyJohn)  
 [Valerie Tran](https://github.com/ValerieTran)  
 [Jack Glawatz](https://github.com/jackglawatz) 
+[Oluwabukola Ogundare](https://github.com/RachaelOgundare)
 
 
 Oluwabukola Ogundare @RachaelOgundare
