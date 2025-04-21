@@ -1,4 +1,10 @@
+Julia Gild @JuliaGild
+John Neely @NeelyJohn
+Valerie Tran @ValerieTran
+Jack Glawatz @jackglawatz
 
+
+Oluwabukola Ogundare @RachaelOgundare
 Question 1: This repository contains a Tableau dashboard 
 - This repository contains a Tableau dashboard exploring employee compensation data, including base salary, longevity pay, and overtime across departments.
 
