@@ -32,7 +32,7 @@ Question 1: Which departments have the highest average total compensation (base 
 
 
 ## Question 2
-Question 3: Are males or females receiving more longevity or overtime pay in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
+Question 2: Are males or females receiving more longevity or overtime pay in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
 
 
 
