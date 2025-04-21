@@ -18,7 +18,7 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 
 ## Question 1
-Question 2: Which departments have the highest average total compensation (base + longevity + overtime), and how does it differ by gender?
+Question 1: Which departments have the highest average total compensation (base + longevity + overtime), and how does it differ by gender?
 
 <img width="623" alt="Screenshot 2025-04-21 at 7 39 33 PM" src="https://github.com/user-attachments/assets/9f10b8ae-3376-45b2-8659-7e979c0b7515" />
 
