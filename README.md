@@ -4,20 +4,20 @@
 [Jack Glawatz](https://github.com/jackglawatz) 
 [Oluwabukola Ogundare](https://github.com/RachaelOgundare)
 
+Our data set: Employee Salaries - 2024
 
-Oluwabukola Ogundare @RachaelOgundare
-Question 1: This repository contains a Tableau dashboard 
-- This repository contains a Tableau dashboard exploring employee compensation data, including base salary, longevity pay, and overtime across departments.
+Question 1: What is the average Overtime Pay for employees in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
 
-📂 **Download the Tableau file here:**  
 [📊 Book2 (1).twbx](./Book2%20(3).twbx)
 
 
 
-Question 2: This Tableau dashboard visualizes **2024 compensation data**, comparing average **Longevity Pay** and **Overtime Pay** by **Department** and **Gender**.
+Question 2: Which departments have the highest average total compensation (base + longevity + overtime), and how does it differ by gender?
 
 ---
 
-## 📁 Tableau File
 
 ➡️ [Download the Dashboard](./Book2%20(2).twbx)
+
+Question 3: Are males or females receiving more longevity or overtime pay in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
+
