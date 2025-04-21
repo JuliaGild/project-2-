@@ -1,7 +1,7 @@
-Julia Gild @JuliaGild
-John Neely @NeelyJohn
-Valerie Tran @ValerieTran
-Jack Glawatz @jackglawatz
+[Julia Gild](https://github.com/JuliaGild)  
+[John Neely](https://github.com/NeelyJohn)  
+[Valerie Tran](https://github.com/ValerieTran)  
+[Jack Glawatz](https://github.com/jackglawatz) 
 
 
 Oluwabukola Ogundare @RachaelOgundare
