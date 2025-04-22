@@ -42,4 +42,4 @@ Question 2:What departments have the greatest nominal gender pay gap?
 - Each bar represents the gender pay gap in a specific department.
 - The longer the bar, the larger the gap in favor of that gender.
 - The chart helps visually identify which departments have the largest disparities
-- After using the formula to calculate the gender pay gap: Positive → Men earn more than women in that department, Negative → Women earn more than men in that department, Zero → No gender pay gap; compensation is equal
+
