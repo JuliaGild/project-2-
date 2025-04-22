@@ -32,18 +32,6 @@ Question 1: Which departments have the highest average total compensation (base 
 
 
 ## Question 2
-Question 2: Are males or females receiving more longevity or overtime pay in the Department of Health and Housing, Department of Technology and Enterprise Business Solutions, Office of Public Relations, and Office of Public Relations?
 
 
-
-
-
-[📊 Book2 (1).twbx](./Book2%20(3).twbx)
-
-
-- Average Overtime Pay Summary:
-The top visualization highlights differences in average overtime pay across departments, with a focus on gender disparities. In the Department of Health and Human Resources, both male and female employees received similar overtime compensation, averaging around $880. However, a large gap is seen in the Department of Technology and Enterprise Business Solutions, where females earned significantly less overtime than males, only $135, compared to much higher male figures. The Office of Human Resources recorded no overtime pay for either gender. In the Office of Public Information, the gender gap is especially prominent, with males earning an average of $1,240 in overtime pay, while females received just $32. These results suggest inequality in overtime compensation across some departments.
-
-- Average Total Compensation Summary:
-The bottom chart compares average total compensation, including longevity pay, by gender across different departments. The Department of Technology and Enterprise Business Solutions shows relatively equal compensation between males and females, both averaging around $1,574. In contrast, the Department of Health and Human Resources and the Office of Human Resources show moderate compensation levels with small gender differences, at $1,329 and $778, respectively. The most extreme disparity is in the Office of Public Information, where males earned a standard amount while females received no compensation. This suggests a broader issue with pay equity that may need to be addressed in specific departments.
 
