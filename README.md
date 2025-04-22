@@ -25,7 +25,10 @@ Question 1: Which departments have the highest average total compensation (base 
 
 [Download Tableau Workbook: Book2 (3) (4).twbx](./Book2%20(3)%20(4).twbx)
 
-
+Why is this important to analyze?
+- Reveals hidden pay disparities that may not be obvious from base salary alone
+- Helps ensure that employees are compensated fairly
+  
 - This shows you which departments may have pay gaps or higher overall compensation levels across genders
 - Total compensation was calculated by the following: (base + longevity + overtime)
 - We calculated the total compensation because it shows the complete amount of money an employee earns, not just their base salary. This helps give a full picture of employee earnings, which helps when comparing compensation across departments and identifying pay disparities
