@@ -38,3 +38,7 @@ Question 2:What departments have the greatest nominal gender pay gap?
 <img width="766" alt="Screenshot 2025-04-21 at 8 06 04 PM" src="https://github.com/user-attachments/assets/22918617-ad07-45e0-81ec-9ac67f3c5a5d" />
 
 - This visualization reveals the departments with the largest gender-based differences in total compensation. The positive values indicate that there is a higher pay for men while the negative values show a higher pay for women. By isolating the pay gap itself, this view highlights where compensation imbalances are most pronounced based on gender.
+- Each bar represents the gender pay gap in a specific department.
+- The longer the bar, the larger the gap in favor of that gender.
+- The chart helps visually identify which departments have the largest disparities
+- After using the formula to calculate the gender pay gap: Positive → Men earn more than women in that department, Negative → Women earn more than men in that department, Zero → No gender pay gap; compensation is equal
