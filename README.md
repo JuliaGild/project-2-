@@ -34,5 +34,5 @@ Question 1: Which departments have the highest average total compensation (base 
 ## Question 2
 Question 2:What departments have the greatest nominal gender pay gap?
 
-
+[Download Tableau Workbook: Book2 (3) (5).twbx](./Book2%20(3)%20(5).twbx)
 <img width="766" alt="Screenshot 2025-04-21 at 8 06 04 PM" src="https://github.com/user-attachments/assets/22918617-ad07-45e0-81ec-9ac67f3c5a5d" />
