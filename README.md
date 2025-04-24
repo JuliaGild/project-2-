@@ -14,7 +14,7 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 ## Problem Description
 - The dataset titled “Employee Salaries - 2024” contains detailed information about employee compensation across various departments and divisions.
--  It includes a total of 10,398 rows and 8 columns, each representing a different attribute related to employee salary data. The data was obtained from the US Government Database The columns in the dataset are as follows: Department, which provides the abbreviated name of the department; Department Name, which gives the full name of the department; and Division, which refers to specific teams or units within each department. The Gender column identifies whether the employee is male (M) or female (F). Salary-related information includes Base Salary, which is a float data type representing the employee's annual base pay , 2024 Overtime Pay for any additional earnings from extra hours worked, and 2024 Longevity Pay, which accounts for bonus payments based on years of service. Lastly, the Grade column indicates the employee’s job level or classification (such as M3, EX2, or N17), although this field contains some missing values. Overall, this dataset provides a comprehensive snapshot of employee compensation, allowing for in-depth analysis of salary structures, gender pay comparisons, and departmental compensation trends.
+-  It includes a total of 10,398 rows and 8 columns, each representing a different attribute related to employee salary data. The data was obtained from the US Government Database The columns in the dataset are as follows: Department, which provides the abbreviated name of the department; Department Name, which gives the full name of the department; and Division, which refers to specific teams or units within each department. The Gender column identifies whether the employee is male (M) or female (F). Salary-related information includes Base Salary, which is a float data type representing the employee's annual base pay, 2024 Overtime Pay for any additional earnings from extra hours worked, and 2024 Longevity Pay, which accounts for bonus payments based on years of service. Lastly, the Grade column indicates the employee’s job level or classification (such as M3, EX2, or N17), although this field contains some missing values. Overall, this dataset provides a comprehensive snapshot of employee compensation, allowing for in-depth analysis of salary structures, gender pay comparisons, and departmental compensation trends.
 
 
 
@@ -33,14 +33,5 @@ Question 1: Which departments have the highest average total compensation (base 
 
 
 ## Question 2
-Question 2:What departments have the greatest nominal gender pay gap?
-
-[Download Tableau Workbook: Book2 (3) (5).twbx](./Book2%20(3)%20(5).twbx)
-<img width="766" alt="Screenshot 2025-04-21 at 8 06 04 PM" src="https://github.com/user-attachments/assets/22918617-ad07-45e0-81ec-9ac67f3c5a5d" />
-<img width="274" alt="Screenshot 2025-04-21 at 9 18 39 PM" src="https://github.com/user-attachments/assets/177c90c2-135f-4a65-87f4-b3e363ca6fad" />
-
-- This visualization reveals the departments with the largest gender-based differences in total compensation. The positive values indicate that there is a higher pay for men while the negative values show a higher pay for women. By isolating the pay gap itself, this view highlights where compensation imbalances are most pronounced based on gender.
-- Each bar represents the gender pay gap in a specific department.
-- The longer the bar, the larger the gap in favor of that gender.
-- The chart helps visually identify which departments have the largest disparities
+Question 2: Which departments rely most on lower-paid employees for overtime work?
 
