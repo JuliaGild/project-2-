@@ -31,12 +31,7 @@ Question 1: What departments have the greatest nominal gender pay gap?
 
 Our chart shows the nominal gender pay gap across various departments, with positive values showing males that earn more on average than females. The calculation is based on the difference between the average total compensation for females in each department.
 
-Looking at our data visual, departments showing the greatest male advantage in pay are 
-**- **NFB****
--   has an extremely large pay gap favoring males standing out by far among other       departments
-**- CBK, ECM**
--   These departments are technical and highly specialized and also show a substantial male advantage
-**- **CAT****
+Looking at our data visual, departments showing the greatest male advantage in pay are; NFB, which has an extremely large pay gap favoring males standing out by far among other  departments, CBK, ECM, and CAT; these departments are technical and highly specialized and also show a substantial male advantage. Other administrative departments such as OAS have smaller or even reversed pay gaps, which could higlhight differences in role types or seniority levels by gender.
 
 Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, espically the ones mentioned above.
 
