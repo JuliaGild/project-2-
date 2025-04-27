@@ -41,12 +41,11 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 
   
-## Question 2
-Question 2: Which departments rely most on lower-paid employees for overtime work?
-
-📄 [Book2 (3) (8).twbx](./Book2%20(3)%20(8).twbx)
+## Question 2: Which departments rely most on lower-paid employees for overtime work?
 
 <img width="1439" alt="Screenshot 2025-04-27 at 6 30 00 PM" src="https://github.com/user-attachments/assets/4014f2f3-ff3a-4500-acef-3af3d53563b3" />
+
+- 📄 [Book2 (3) (8).twbx](./Book2%20(3)%20(8).twbx)
 
 
 From the visualization, we can see that certain departments, like the Department of Police and Fire and Rescue Service, have much higher overtime totals compared to others. This suggests that lower-paid workers in these departments are heavily relied upon to work extra hours. It raises questions about workload distribution, employee well-being, and whether overtime is being used as a long-term staffing solution for these essential services. Departments with little to no overtime pay among below-median earners could indicate either a better balance or possibly stricter overtime management. Understanding where overtime is concentrated among lower-paid employees is essential for ensuring fair compensation practices and identifying departments that may need better staffing or support. If this model has been relied upon for long-term staffing instead of a short-term solution, then the department’s salary expense could be reduced considerably by hiring additional workers, preventing the need to pay a higher rate during overtime.
