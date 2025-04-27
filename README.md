@@ -1,11 +1,10 @@
 
 ## Team Members
-[Julia Gild](https://github.com/JuliaGild)  
-[John Neely](https://github.com/NeelyJohn)  
-[Valerie Tran](https://github.com/vvt15)  
-[Jack Glawatz](https://github.com/jackglawatz) 
-
-[Oluwabukola Ogundare](https://github.com/RachaelOgundare)
+- Julia Gild [@JuliaGild](https://github.com/JuliaGild)
+- John Neely [@NeelyJohn](https://github.com/NeelyJohn)
+- Valerie Tran [@ValerieTran](https://github.com/vvt15)
+- Jack Glawatz [@jackglawatz](https://github.com/jackglawatz)
+- Oluwabukola Ogundare [@RachaelOgundare](https://github.com/RachaelOgundare)
 
 
 ## Data set
