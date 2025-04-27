@@ -14,7 +14,7 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 ## Problem Description
 - The dataset titled “Employee Salaries - 2024” contains detailed information about employee compensation across various departments and divisions.
--  It includes a total of 10,398 rows and 8 columns, each representing a different attribute related to employee salary data. The data was obtained from the US Government Database The columns in the dataset are as follows: Department, which provides the abbreviated name of the department; Department Name, which gives the full name of the department; and Division, which refers to specific teams or units within each department. The Gender column identifies whether the employee is male (M) or female (F). Salary-related information includes Base Salary, which is a float data type representing the employee's annual base pay, 2024 Overtime Pay for any additional earnings from extra hours worked, and 2024 Longevity Pay, which accounts for bonus payments based on years of service. Lastly, the Grade column indicates the employee’s job level or classification (such as M3, EX2, or N17), although this field contains some missing values. Overall, this dataset provides a comprehensive snapshot of employee compensation, allowing for in-depth analysis of salary structures, gender pay comparisons, and departmental compensation trends.
+-  It includes a total of 10,398 rows and 8 columns, each representing a different attribute related to employee salary data. The data was obtained from the US Government Database. The columns in the dataset are as follows: Department, which provides the abbreviated name of the department; Department Name, which gives the full name of the department; and Division, which refers to specific teams or units within each department. The Gender column identifies whether the employee is male (M) or female (F). Salary-related information includes Base Salary, which is a float data type representing the employee's annual base pay, 2024 Overtime Pay for any additional earnings from extra hours worked, and 2024 Longevity Pay, which accounts for bonus payments based on years of service. Lastly, the Grade column indicates the employee’s job level or classification (such as M3, EX2, or N17), although this field contains some missing values. Overall, this dataset provides a comprehensive snapshot of employee compensation, allowing for in-depth analysis of salary structures, gender pay comparisons, and departmental compensation trends.
 
 
 
@@ -29,11 +29,11 @@ Question 1: What departments have the greatest nominal gender pay gap?
 
 
 
-Our chart shows the nominal gender pay gap across various departments, with positive values showing males that earn more on average than females. The calculation is based on the difference between the average total compensation for females in each department.
+Our chart shows the nominal gender pay gap across various departments, with positive values showing males who earn more on average than females. The calculation is based on the difference between the average total compensation for females in each department.
 
-Looking at our data visual, departments showing the greatest male advantage in pay are; NFB, which has an extremely large pay gap favoring males standing out by far among other  departments, CBK, ECM, and CAT; these departments are technical and highly specialized and also show a substantial male advantage. Other administrative departments such as OAS have smaller or even reversed pay gaps, which could higlhight differences in role types or seniority levels by gender.
+Looking at our data visual, departments showing the greatest male advantage in pay are; NFB, which has an extremely large pay gap favoring males, standing out by far among other  departments, CBK, ECM, and CAT; these departments are technical and highly specialized, and also show a substantial male advantage. Other administrative departments, such as OA,S have smaller or even reversed pay gaps, which could highlight differences in role types or seniority levels by gender.
 
-Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, espically the ones mentioned above.
+Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, especially the ones mentioned above.
 
 
 The manipulations applied to the dataset as part of the analysis:
