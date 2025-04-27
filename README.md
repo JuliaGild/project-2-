@@ -33,9 +33,7 @@ Why is this question important?
 
 Analysis:
 
-- Looking at our data visual, departments showing the greatest male advantage in pay are; NFB, which has an extremely large pay gap favoring males, standing out by far among other  departments, CBK, ECM, and CAT; these departments are technical and highly specialized, and also show a substantial male advantage. Other administrative departments, such as OA,S have smaller or even reversed pay gaps, which could highlight differences in role types or seniority levels by gender.
-
-Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, especially the ones mentioned above.
+- Looking at our data visual, departments showing the greatest male advantage in pay are; NFB, which has an extremely large pay gap favoring males, standing out by far among other  departments, CBK, ECM, and CAT; these departments are technical and highly specialized, and also show a substantial male advantage. Other administrative departments, such as OA,S have smaller or even reversed pay gaps, which could highlight differences in role types or seniority levels by gender. Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, especially the ones mentioned above.
 
 
 The manipulations applied to the dataset as part of the analysis:
