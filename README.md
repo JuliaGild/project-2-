@@ -25,7 +25,7 @@ Question 1: What departments have the greatest nominal gender pay gap?
 
 <img width="331" alt="Screenshot 2025-04-27 at 6 17 30 PM" src="https://github.com/user-attachments/assets/4ba93af7-875a-44be-8c5b-2c8183d5ffa7" />
 
-
+- 📄 [Book2 (3) (7).twbx](./Book2%20(3)%20(7).twbx)
 
 ## Question 2
 Question 2: Which departments rely most on lower-paid employees for overtime work?
