@@ -19,16 +19,12 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 
 ## Question 1
-Question 1: Which departments have the highest average total compensation (base + longevity + overtime), and how does it differ by gender?
+Question 1: What departments have the greatest nominal gender pay gap?
 
+<img width="627" alt="Screenshot 2025-04-27 at 6 17 19 PM" src="https://github.com/user-attachments/assets/87ba99b3-8696-4083-b6c0-661f76d7f581" />
 
+<img width="331" alt="Screenshot 2025-04-27 at 6 17 30 PM" src="https://github.com/user-attachments/assets/4ba93af7-875a-44be-8c5b-2c8183d5ffa7" />
 
-
-- This shows you which departments may have pay gaps or higher overall compensation levels across genders
-- Total compensation was calculated by the following: (base + longevity + overtime)
-- We calculated the total compensation because it shows the complete amount of money an employee earns, not just their base salary. This helps give a full picture of employee earnings, which helps when comparing compensation across departments and identifying pay disparities
-- This analysis reveals which departments offer the highest overall compensation when combining base salary, longevity pay, and overtime pay. Breaking down the results by gender also highlights potential pay disparities between men and women within the same department. This helps identify departments with the most competitive pay structures and uncovers any possible gender-based inequalities in total compensation
-- Why is this important to analyze? Reveals hidden pay disparities that may not be obvious from base salary alone and helps ensure that employees are compensated fairly
 
 
 ## Question 2
