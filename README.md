@@ -45,5 +45,6 @@ Overall, the results shown in our model highlight where gender-based pay dispari
 ## Question 2
 Question 2: Which departments rely most on lower-paid employees for overtime work?
 
+📄 [Book2 (3) (8).twbx](./Book2%20(3)%20(8).twbx)
 
-
+<img width="1439" alt="Screenshot 2025-04-27 at 6 30 00 PM" src="https://github.com/user-attachments/assets/4014f2f3-ff3a-4500-acef-3af3d53563b3" />
