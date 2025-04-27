@@ -20,8 +20,6 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 ## Question 1: What departments have the greatest nominal gender pay gap?
 <img width="527" alt="Screenshot 2025-04-27 at 6 17 19 PM" src="https://github.com/user-attachments/assets/87ba99b3-8696-4083-b6c0-661f76d7f581" />
 
-<img width="331" alt="Screenshot 2025-04-27 at 6 17 30 PM" src="https://github.com/user-attachments/assets/4ba93af7-875a-44be-8c5b-2c8183d5ffa7" />
-
 - 📄 [Book2 (3) (7).twbx](./Book2%20(3)%20(7).twbx)
 
 
@@ -36,7 +34,8 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 ### Manipulations
 
-- To analyze the gender pay gap by department, a new calculated field called "Gender Pay Gap" was created in Tableau. This calculation compared the average total compensation of male and female employees within each department. Specifically, it used an IF statement to separately find the average total compensation for males and for females, then subtracted the female average from the male average. A positive result shows that, on average, males earn more than females in that department. A negative result would show a female pay advantage. This step was necessary because the original dataset only listed individual salaries and did not directly provide a gender comparison. By creating this calculated field, it became possible to visualize the pay gap clearly in a horizontal bar chart, making department-level differences easy to identify
+- To analyze the gender pay gap by department, a new calculated field called "Gender Pay Gap" was created in Tableau. This calculation compared the average total compensation of male and female employees within each department. Specifically, it used an IF statement to separately find the average total compensation for males and for females, then subtracted the female average from the male average. A positive result shows that, on average, males earn more than females in that department. A negative result would show a female pay advantage. This step was necessary because the original dataset only listed individual salaries and did not directly provide a gender comparison. By creating this calculated field, it became possible to visualize the pay gap clearly in a horizontal bar chart, making department-level differences easy to identify.
+<img width="331" alt="Screenshot 2025-04-27 at 6 17 30 PM" src="https://github.com/user-attachments/assets/4ba93af7-875a-44be-8c5b-2c8183d5ffa7" />
 
 
 
