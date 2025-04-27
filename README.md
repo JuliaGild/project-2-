@@ -36,6 +36,11 @@ Looking at our data visual, departments showing the greatest male advantage in p
 Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, espically the ones mentioned above.
 
 
+The manipulations applied to the dataset as part of the analysis:
+- To analyze the gender pay gap by department, a new calculated field called "Gender Pay Gap" was created in Tableau. This calculation compared the average total compensation of male and female employees within each department. Specifically, it used an IF statement to separately find the average total compensation for males and for females, then subtracted the female average from the male average. A positive result shows that, on average, males earn more than females in that department. A negative result would show a female pay advantage. This step was necessary because the original dataset only listed individual salaries and did not directly provide a gender comparison. By creating this calculated field, it became possible to visualize the pay gap clearly in a horizontal bar chart, making department-level differences easy to identify
+
+
+
   
 ## Question 2
 Question 2: Which departments rely most on lower-paid employees for overtime work?
