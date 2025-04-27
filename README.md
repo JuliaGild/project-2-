@@ -27,7 +27,7 @@ Question 1: What departments have the greatest nominal gender pay gap?
 - 📄 [Book2 (3) (7).twbx](./Book2%20(3)%20(7).twbx)
 
 
-Why is this question important?
+## Importance
 
 - Our chart shows the nominal gender pay gap across various departments, with positive values showing males who earn more on average than females. The calculation is based on the difference between the average total compensation for females in each department.
 
