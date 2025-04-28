@@ -47,6 +47,11 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 ### Manipulations
 - To display only individuals whose base salary was lower than the median base salary in the dataset, a fixed calculated field had to be created first to act as a point of comparison for a secondary calculation.
+<img width="454" alt="Screenshot 2025-04-28 at 4 45 23 PM" src="https://github.com/user-attachments/assets/66c076e0-a6e0-4730-b894-74afcdae8edf" />
+
 - A second calculated field that returns True/False was then created to filter by wages.
+<img width="510" alt="Screenshot 2025-04-28 at 4 45 28 PM" src="https://github.com/user-attachments/assets/6eb1e091-59ec-461e-a155-455a011b5a8a" />
+
 - The “Below Median | Filter” field was placed into the ‘filter’ section with the ‘true’ value selected.
+<img width="663" alt="Screenshot 2025-04-28 at 4 45 40 PM" src="https://github.com/user-attachments/assets/ebfd66a7-b7a0-4d51-8664-27eb127de99c" />
 
