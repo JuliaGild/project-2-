@@ -7,7 +7,7 @@
 - Oluwabukola Ogundare [@RachaelOgundare](https://github.com/RachaelOgundare)
 
 
-## Data set
+## Data Set
 - Employee Salaries - 2024
 https://catalog.data.gov/dataset/employee-salaries-2024
 
