@@ -18,7 +18,7 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 
 ## Question 1: What departments have the greatest nominal gender pay gap?
-<img width="700" alt="Screenshot 2025-04-27 at 6 17 19 PM" src="https://github.com/user-attachments/assets/87ba99b3-8696-4083-b6c0-661f76d7f581" />
+<img width="1500" alt="Screenshot 2025-04-27 at 6 17 19 PM" src="https://github.com/user-attachments/assets/87ba99b3-8696-4083-b6c0-661f76d7f581" />
 
 - 📄 [Book2 (3) (7).twbx](./Book2%20(3)%20(7).twbx)
 
@@ -36,7 +36,7 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
   
 ## Question 2: Which departments rely most on lower-paid employees for overtime work?
-<img width="1439" alt="Screenshot 2025-04-27 at 6 30 00 PM" src="https://github.com/user-attachments/assets/4014f2f3-ff3a-4500-acef-3af3d53563b3" />
+<img width="1500" alt="Screenshot 2025-04-27 at 6 30 00 PM" src="https://github.com/user-attachments/assets/4014f2f3-ff3a-4500-acef-3af3d53563b3" />
 - 📄 [Book2 (3) (8).twbx](./Book2%20(3)%20(8).twbx)
 
 ### Importance
