@@ -19,7 +19,6 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 ## Question 1: What departments have the greatest nominal gender pay gap?
 <img width="1500" alt="Screenshot 2025-04-27 at 6 17 19 PM" src="https://github.com/user-attachments/assets/87ba99b3-8696-4083-b6c0-661f76d7f581" />
-
 - 📄 [Book2 (3) (7).twbx](./Book2%20(3)%20(7).twbx)
 
 ### Importance
