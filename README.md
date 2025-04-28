@@ -28,7 +28,8 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 - Looking at our data visual, departments showing the greatest male advantage in pay are; NFB, which has an extremely large pay gap favoring males, standing out by far among other  departments, CBK, ECM, and CAT; these departments are technical and highly specialized, and also show a substantial male advantage. Other administrative departments, such as OA,S have smaller or even reversed pay gaps, which could highlight differences in role types or seniority levels by gender. Overall, the results shown in our model highlight where gender-based pay disparities are more notable and suggest a need for further analysis in the hiring, promotion, and pay practices in most departments, especially the ones mentioned above.
 
 ### Manipulations
-- To analyze the gender pay gap by department, a new calculated field called "Gender Pay Gap" was created in Tableau. This calculation compared the average total compensation of male and female employees within each department. Specifically, it used an IF statement to separately find the average total compensation for males and for females, then subtracted the female average from the male average. A positive result shows that, on average, males earn more than females in that department. A negative result would show a female pay advantage. This step was necessary because the original dataset only listed individual salaries and did not directly provide a gender comparison. By creating this calculated field, it became possible to visualize the pay gap clearly in a horizontal bar chart, making department-level differences easy to identify.<img width="331" alt="Screenshot 2025-04-27 at 6 17 30 PM" src="https://github.com/user-attachments/assets/4ba93af7-875a-44be-8c5b-2c8183d5ffa7" />
+- To analyze the gender pay gap by department, a new calculated field called "Gender Pay Gap" was created in Tableau. This calculation compared the average total compensation of male and female employees within each department. Specifically, it used an IF statement to separately find the average total compensation for males and for females, then subtracted the female average from the male average. A positive result shows that, on average, males earn more than females in that department. A negative result would show a female pay advantage. This step was necessary because the original dataset only listed individual salaries and did not directly provide a gender comparison. By creating this calculated field, it became possible to visualize the pay gap clearly in a horizontal bar chart, making department-level differences easy to identify.
+<img width="331" alt="Screenshot 2025-04-27 at 6 17 30 PM" src="https://github.com/user-attachments/assets/4ba93af7-875a-44be-8c5b-2c8183d5ffa7" />
 
 
 
@@ -45,9 +46,6 @@ https://catalog.data.gov/dataset/employee-salaries-2024
 
 ### Manipulations
 - To display only individuals whose base salary was lower than the median base salary in the dataset, a fixed calculated field had to be created first to act as a point of comparison for a secondary calculation.
-[unnamed.pdf](https://github.com/user-attachments/files/19948658/unnamed.pdf)
 - A second calculated field that returns True/False was then created to filter by wages.
-[unnamed-2.pdf](https://github.com/user-attachments/files/19948659/unnamed-2.pdf)
 - The “Below Median | Filter” field was placed into the ‘filter’ section with the ‘true’ value selected.
-[unnamed-3.pdf](https://github.com/user-attachments/files/19948660/unnamed-3.pdf)
 
